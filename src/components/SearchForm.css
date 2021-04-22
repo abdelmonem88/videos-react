@@ -1,0 +1,16 @@
+.search-form {
+ width: 100%;
+ padding: 1rem 0;
+}
+
+.search-form label {
+ font-size: 1.5rem;
+}
+
+.search-form .search-input {
+ border: 2px solid #333;
+ outline: 0;
+ width: 100%;
+ padding: 1rem;
+ border-radius: 10px;
+}

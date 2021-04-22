@@ -1,0 +1,17 @@
+.video-content {
+ display: flex;
+ align-items: center;
+ background-color: #fff;
+ margin-bottom: 0.5rem;
+ cursor: pointer;
+}
+
+.video-content img {
+ max-width: 150px;
+}
+
+.video-content h6 {
+ font-size: 15px;
+ font-weight: bold;
+ margin-left: 0.5rem;
+}
